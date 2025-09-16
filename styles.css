@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+#nav{
+	list-style-type:none;
+    display:flex;
+	justify-content: space-around;
+	height:20px;
+	width:90%;
+	background-color:grey;
+	
+}
+a{
+	text-decoration:none;
+}
+
+
+
